@@ -64,7 +64,7 @@ function Home() {
         </div>
       </section>
       <footer>
-        <p>&copy;Online repair store - 2023 All rights Reserved</p>
+        <p>&copy;GEEK PROTECT - 2023 All rights Reserved</p>
       </footer>
     </Container>
   );
